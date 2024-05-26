@@ -1,0 +1,1 @@
+100 100 1. 10. 1. 10. 1. 10e-7             read(10,*)Nx,Ny,x0,xN,y0,yN,omega,eps
